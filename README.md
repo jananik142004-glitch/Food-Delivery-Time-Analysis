@@ -37,6 +37,18 @@ Identify the key factors influencing delivery delays and provide insights to imp
 * Cleaned_Dataset.xlsx
 * Dashboard.png
 
+## Dashboard Features
+
+* KPI Cards for Total Orders, Average Delivery Time, Average Distance, Average Preparation Time, and Delayed Orders
+* Traffic Impact Analysis
+* Weather Impact Analysis
+* Vehicle Type Performance Analysis
+* Time of Day Analysis
+* Distance vs Delivery Time Correlation
+* Courier Experience Analysis
+* Delayed Orders by Traffic Level
+
+
 ## Dashboard Preview
 
 ![Dashboard](Dashboard.png)
