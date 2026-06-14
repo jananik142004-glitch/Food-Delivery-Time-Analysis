@@ -39,4 +39,5 @@ Identify the key factors influencing delivery delays and provide insights to imp
 
 ## Dashboard Preview
 
-(Dashboard image will be added after upload)
+![Dashboard](Dashboard.png)
+
